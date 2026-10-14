@@ -1,3 +1,5 @@
+<p align="center"><img src="res/assets/sprswp/icon.png" width="128"></p>
+
 # spear swap
 
 client side fabric mod for minecraft 1.21.11 that makes spear lunging easier.
