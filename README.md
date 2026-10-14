@@ -18,6 +18,6 @@ you need fabric loader 0.15 or newer, fabric api and cloth config. mod menu is o
 
 ## about the code
 
-i do not have the original project anymore, so the code in `src` is decompiled from the jar. that is why the names look like class_1661. the files in `res` are the resources from the jar.
+the code is in `src`. the files in `res` are the resources from the jar.
 
 all rights reserved, see LICENSE.
