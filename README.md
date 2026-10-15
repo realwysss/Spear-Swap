@@ -20,4 +20,4 @@ you need fabric loader 0.15 or newer, fabric api and cloth config. mod menu is o
 
 the code is in `src`. the files in `res` are the resources from the jar.
 
-all rights reserved, see LICENSE.
+all rights reserved. made by wysss.
